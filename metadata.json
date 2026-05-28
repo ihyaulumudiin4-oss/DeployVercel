@@ -1,0 +1,6 @@
+{
+  "name": "Vercel Deployer",
+  "description": "Simulasi deployment website Vercel dengan generator kode bertenaga AI, pembuatan file konfigurasi, pratinjau langsung, dan pembuatan file ZIP siap unduh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
